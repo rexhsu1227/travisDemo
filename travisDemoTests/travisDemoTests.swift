@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import travisDemo
+@testable import travis_demo
 
 class travisDemoTests: XCTestCase {
 
@@ -19,16 +19,9 @@ class travisDemoTests: XCTestCase {
         // Put teardown code here. This method is called after the invocation of each test method in the class.
     }
 
-    func testExample() {
-        // This is an example of a functional test case.
-        // Use XCTAssert and related functions to verify your tests produce the correct results.
+    func testProduct() {
+        XCTAssert(Utils.multiply3(3) == 9, "test * 3")
     }
 
-    func testPerformanceExample() {
-        // This is an example of a performance test case.
-        self.measure {
-            // Put the code you want to measure the time of here.
-        }
-    }
 
 }
