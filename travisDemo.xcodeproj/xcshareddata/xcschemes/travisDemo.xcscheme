@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "63F2F29323CB7F3F00848C0D"
-               BuildableName = "travisDemo.app"
+               BuildableName = "travis-demo.app"
                BlueprintName = "travisDemo"
                ReferencedContainer = "container:travisDemo.xcodeproj">
             </BuildableReference>
@@ -55,7 +55,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "63F2F29323CB7F3F00848C0D"
-            BuildableName = "travisDemo.app"
+            BuildableName = "travis-demo.app"
             BlueprintName = "travisDemo"
             ReferencedContainer = "container:travisDemo.xcodeproj">
          </BuildableReference>
@@ -72,7 +72,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "63F2F29323CB7F3F00848C0D"
-            BuildableName = "travisDemo.app"
+            BuildableName = "travis-demo.app"
             BlueprintName = "travisDemo"
             ReferencedContainer = "container:travisDemo.xcodeproj">
          </BuildableReference>
