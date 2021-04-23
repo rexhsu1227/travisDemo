@@ -1,3 +1,4 @@
+language: swift
 xcode_project: travisDemo.xcodeproj # path to your xcodeproj folder
 xcode_scheme: travisDemo
 xcode_destination: platform=iOS Simulator,OS=13.2.2,name=iPhone 11
